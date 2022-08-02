@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everybody! I'm a physics' student, in the area of computational neuroscience... yet like a baby! 
 
 <!--
 **JojoMercia/JojoMercia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
