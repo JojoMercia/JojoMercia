@@ -1,16 +1,24 @@
-### Hello everybody! I'm a physics' student, in the area of computational neuroscience... yet like a baby! 
+<div align = "center">
 
-<!--
-**JojoMercia/JojoMercia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Joana Mércia
 
-Here are some ideas to get you started:
+### 🧠 A budding computational neuroscientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+![C](https://img.shields.io/badge/C-555555?style=plastic)
+![Fortran](https://img.shields.io/badge/Fortran-4d41b1?style=plastic)
+![Python](https://img.shields.io/badge/Python-3572A5?style=plastic)
+
+<div align="center">
+    <div>
+        <a href="https://github.com/JojoMercia">
+            <img width="350px" src="https://github-readme-stats.vercel.app/api?username=JojoMercia&show_icons=true&theme=tokyonight&hide_border=true" alt="Joana Github Stats" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/JojoMercia">
+            <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoMercia&theme=tokyonight&hide_border=true&layout=compact" alt="Joana most used languages" />
+        </a>
+    </div>
+</div>
