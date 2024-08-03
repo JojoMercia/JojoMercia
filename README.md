@@ -12,4 +12,6 @@
 
 ### 🧠 A budding computational neuroscientist
 
+</div>
+
 I'm a MsC student on Condensed Matter Physics at Federal University of Alagoas. My research is focused in computational simulation of neuronal models and synchronization phenomena. I have more affinity with `C` programming language,however sometimes using `python` or `fortran`.
