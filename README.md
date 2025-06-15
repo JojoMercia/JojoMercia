@@ -1,5 +1,7 @@
 <div align = "center">
 
+![Me](https://github.com/JojoMercia/JojoMercia/blob/main/profile.png?raw=true)
+
 # Hi, I'm Joana Mércia
 
 🧠 A budding computational neuroscientist
