@@ -1,6 +1,7 @@
 <div align = "center">
 
-![Me](https://github.com/JojoMercia/JojoMercia/blob/main/profile.png?raw=true)
+ <img src="https://github.com/JojoMercia/JojoMercia/blob/main/profile.png?raw=true" alt="Me" width="250"> 
+
 
 # Hi, I'm Joana Mércia
 
