@@ -1,7 +1,7 @@
 <div align="center">
 
 [
-<img src="https://github.com/JojoMercia/JojoMercia/blob/main/profile.png?raw=true" alt="me" width="250">
+<img src="https://github.com/JojoMercia/JojoMercia/blob/main/profile.png?raw=true" alt="me" width="200">
 ](http://github.com/JojoMercia)
 
 ##      Hello world, My name is Joana Mércia
