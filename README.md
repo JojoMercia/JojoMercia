@@ -14,7 +14,7 @@
 
 ###     About me
 
-🇧🇷 Sou uma estudante brasileira de Mestrado em Física da Matéria Condensada na Universidade Federal de Alagoas. Minha pesquisa se concentra na simulação computação de modelos neuronais e fenômenos de sincronização.
+🇧🇷 Sou uma estudante brasileira de Mestrado em Física da Matéria Condensada na Universidade Federal de Alagoas. Minha pesquisa se concentra na simulação computacional de modelos neuronais e fenômenos de sincronização.
 
 🇺🇲 I'm a Brazilian MsC student on Condensed Matter Physics at Federal University of Alagoas. My research is focused in computational simulation of neuronal models and synchronization phenomena.
 
